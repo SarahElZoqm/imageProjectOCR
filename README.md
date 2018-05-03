@@ -1,7 +1,7 @@
 # imageProjectOCR
-team name :Sarahat /n
-team members : /n
-Sarah Ahmed Gamal ElZoqm /n
-Sarah hassan hessien /n
-Sarah Essam Mosa /n
-Sarah Nasr Maher /n
+team name :Sarahat <br/>
+team members : <br/>
+Sarah Ahmed Gamal ElZoqm <br/>
+Sarah hassan hessien <br/>
+Sarah Essam Mosa <br/>
+Sarah Nasr Maher <br/>
